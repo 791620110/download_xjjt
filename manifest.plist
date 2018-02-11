@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://192.168.1.101:18081/img_1</string>
+					<string>https://raw.githubusercontent.com/791620110/download_xjjt/master/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://192.168.1.101:18081/img_2</string>
+					<string>https://raw.githubusercontent.com/791620110/download_xjjt/master/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
